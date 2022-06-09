@@ -1,4 +1,4 @@
-# RealmeFixTouchScreen
+# RealmeFixTouchscreen
 Realme Fix Touchscreen SH Script
 
 Feature :
