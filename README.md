@@ -1,5 +1,5 @@
-# RealmeFixTouchscreen
-Realme Fix Touchscreen SH Script
+# RealmeFixTouchScreen
+Realme Fix TouchScreen SH Script
 
 Feature :
 - Fixed The Edges Of The Phone Screen Being Unresponsive To Touch
